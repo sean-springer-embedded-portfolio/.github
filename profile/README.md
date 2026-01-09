@@ -6,5 +6,7 @@ The **Sean Springer Embedded Portfolio** organization will contain embedded proj
 
 - BBC Microbit V2.2
 
+built entirely in `Rust`!
+
 ## ToDo 
 More to Come!
